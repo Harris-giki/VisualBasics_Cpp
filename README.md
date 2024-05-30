@@ -10,8 +10,8 @@ Abstract Classes and Virtual Functions: Implementing abstract base classes and v
 Console Applications: Creating simple, interactive console-based applications.
 Basic Data Structures: Using arrays, pointers, and basic data structures.
 
-## Projects Included
-1. **CppCLR WinForms Data Processor**
+## Projects Included:
+## 1. CppCLR WinForms Data Processor
 
 ### Steps to Run the Project:
 
@@ -35,7 +35,7 @@ Basic Data Structures: Using arrays, pointers, and basic data structures.
 5. **Use the Application:**
    - The application window should appear.
    - Click on the `Import Values and Show Results` button.
-   - Select a `.txt` file from the `C:\CS_ASSIGNMENT` directory or any other directory.
+   - Select a `.txt` any directory.
    - The file should contain the number of equations and variables in the first two lines, followed by a matrix of values.
    - The application will read the file, process the data, and display the results in the respective fields on the form.
 
@@ -43,5 +43,3 @@ Basic Data Structures: Using arrays, pointers, and basic data structures.
    - The application will display the data in a list box.
    - It will show the runtime in microseconds, the type of data structure used, the number of non-zero values, and the final result in respective text boxes.
    - The processed results will also be saved in a `RESULT_OUTPUTS.txt` file in the same directory as the input file.
-
-By following these steps, you should be able to successfully run and interact with the `CppCLR WinForms Data Processor` project.
