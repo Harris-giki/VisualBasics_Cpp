@@ -13,6 +13,8 @@ Basic Data Structures: Using arrays, pointers, and basic data structures.
 ## Projects Included:
 ## 1. CppCLR WinForms Data Processor
 
+This C++/CLI code creates a Windows Forms application where users import a text file containing matrix data. It then computes the sum of each column and displays the results, including runtime, data structure type, non-zero values count, and the computed polynomial result. The user interface includes buttons, list boxes, labels, and text boxes for interaction and display.
+
 ### Steps to Run the Project:
 
 1. **Clone the Repository:**
